@@ -1,0 +1,9 @@
+# This file is used to install the required packages for the Flask application.
+
+Flask==2.2.2
+Werkzeug==2.2.2
+pandas==1.5.3
+numpy==1.23.5
+nltk==3.8.1
+gunicorn==20.1.0
+flask-cors  # if not already pinned, add the version (e.g., flask-cors==3.0.10)
